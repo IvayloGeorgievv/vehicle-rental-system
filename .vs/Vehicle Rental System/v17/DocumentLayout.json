@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivayl\\Desktop\\Prime Holding Exercies\\Vehicle Rental System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6513113B-8A0A-48B9-B7BC-139C9861FBE2}|Vehicle Rental System.csproj|C:\\Users\\ivayl\\Desktop\\Prime Holding Exercies\\Vehicle Rental System\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6513113B-8A0A-48B9-B7BC-139C9861FBE2}|Vehicle Rental System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6513113B-8A0A-48B9-B7BC-139C9861FBE2}|Vehicle Rental System.csproj|C:\\Users\\ivayl\\Desktop\\Prime Holding Exercies\\Vehicle Rental System\\util\\invoiceutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6513113B-8A0A-48B9-B7BC-139C9861FBE2}|Vehicle Rental System.csproj|solutionrelative:util\\invoiceutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6513113B-8A0A-48B9-B7BC-139C9861FBE2}|Vehicle Rental System.csproj|c:\\users\\ivayl\\desktop\\prime holding exercies\\vehicle rental system\\constants\\errormessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6513113B-8A0A-48B9-B7BC-139C9861FBE2}|Vehicle Rental System.csproj|solutionrelative:constants\\errormessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6513113B-8A0A-48B9-B7BC-139C9861FBE2}|Vehicle Rental System.csproj|C:\\Users\\ivayl\\Desktop\\Prime Holding Exercies\\Vehicle Rental System\\entity\\rentalinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6513113B-8A0A-48B9-B7BC-139C9861FBE2}|Vehicle Rental System.csproj|solutionrelative:entity\\rentalinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6513113B-8A0A-48B9-B7BC-139C9861FBE2}|Vehicle Rental System.csproj|C:\\Users\\ivayl\\Desktop\\Prime Holding Exercies\\Vehicle Rental System\\entity\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6513113B-8A0A-48B9-B7BC-139C9861FBE2}|Vehicle Rental System.csproj|solutionrelative:entity\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6513113B-8A0A-48B9-B7BC-139C9861FBE2}|Vehicle Rental System.csproj|C:\\Users\\ivayl\\Desktop\\Prime Holding Exercies\\Vehicle Rental System\\entity\\cargovan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6513113B-8A0A-48B9-B7BC-139C9861FBE2}|Vehicle Rental System.csproj|solutionrelative:entity\\cargovan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6513113B-8A0A-48B9-B7BC-139C9861FBE2}|Vehicle Rental System.csproj|C:\\Users\\ivayl\\Desktop\\Prime Holding Exercies\\Vehicle Rental System\\constants\\formats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6513113B-8A0A-48B9-B7BC-139C9861FBE2}|Vehicle Rental System.csproj|solutionrelative:constants\\formats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6513113B-8A0A-48B9-B7BC-139C9861FBE2}|Vehicle Rental System.csproj|C:\\Users\\ivayl\\Desktop\\Prime Holding Exercies\\Vehicle Rental System\\enum\\vehicletypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6513113B-8A0A-48B9-B7BC-139C9861FBE2}|Vehicle Rental System.csproj|solutionrelative:enum\\vehicletypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6513113B-8A0A-48B9-B7BC-139C9861FBE2}|Vehicle Rental System.csproj|C:\\Users\\ivayl\\Desktop\\Prime Holding Exercies\\Vehicle Rental System\\entity\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6513113B-8A0A-48B9-B7BC-139C9861FBE2}|Vehicle Rental System.csproj|solutionrelative:entity\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6513113B-8A0A-48B9-B7BC-139C9861FBE2}|Vehicle Rental System.csproj|C:\\Users\\ivayl\\Desktop\\Prime Holding Exercies\\Vehicle Rental System\\entity\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6513113B-8A0A-48B9-B7BC-139C9861FBE2}|Vehicle Rental System.csproj|solutionrelative:entity\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VehicleTypeEnum.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\Desktop\\Prime Holding Exercies\\Vehicle Rental System\\Enum\\VehicleTypeEnum.cs",
+              "RelativeDocumentMoniker": "Enum\\VehicleTypeEnum.cs",
+              "ToolTip": "C:\\Users\\ivayl\\Desktop\\Prime Holding Exercies\\Vehicle Rental System\\Enum\\VehicleTypeEnum.cs",
+              "RelativeToolTip": "Enum\\VehicleTypeEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:38:20.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvoiceUtils.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\Desktop\\Prime Holding Exercies\\Vehicle Rental System\\Util\\InvoiceUtils.cs",
+              "RelativeDocumentMoniker": "Util\\InvoiceUtils.cs",
+              "ToolTip": "C:\\Users\\ivayl\\Desktop\\Prime Holding Exercies\\Vehicle Rental System\\Util\\InvoiceUtils.cs",
+              "RelativeToolTip": "Util\\InvoiceUtils.cs",
+              "ViewState": "AQIAAMsAAAAAAAAAAAAkwFIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:14:31.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorMessages.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\Desktop\\Prime Holding Exercies\\Vehicle Rental System\\Constants\\ErrorMessages.cs",
+              "RelativeDocumentMoniker": "Constants\\ErrorMessages.cs",
+              "ToolTip": "C:\\Users\\ivayl\\Desktop\\Prime Holding Exercies\\Vehicle Rental System\\Constants\\ErrorMessages.cs",
+              "RelativeToolTip": "Constants\\ErrorMessages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:58:00.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RentalInvoice.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\Desktop\\Prime Holding Exercies\\Vehicle Rental System\\Entity\\RentalInvoice.cs",
+              "RelativeDocumentMoniker": "Entity\\RentalInvoice.cs",
+              "ToolTip": "C:\\Users\\ivayl\\Desktop\\Prime Holding Exercies\\Vehicle Rental System\\Entity\\RentalInvoice.cs",
+              "RelativeToolTip": "Entity\\RentalInvoice.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAkwGEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:23:33.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Formats.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\Desktop\\Prime Holding Exercies\\Vehicle Rental System\\Constants\\Formats.cs",
+              "RelativeDocumentMoniker": "Constants\\Formats.cs",
+              "ToolTip": "C:\\Users\\ivayl\\Desktop\\Prime Holding Exercies\\Vehicle Rental System\\Constants\\Formats.cs",
+              "RelativeToolTip": "Constants\\Formats.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:19:21.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CargoVan.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\Desktop\\Prime Holding Exercies\\Vehicle Rental System\\Entity\\CargoVan.cs",
+              "RelativeDocumentMoniker": "Entity\\CargoVan.cs",
+              "ToolTip": "C:\\Users\\ivayl\\Desktop\\Prime Holding Exercies\\Vehicle Rental System\\Entity\\CargoVan.cs",
+              "RelativeToolTip": "Entity\\CargoVan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:08:07.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Motorcycle.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\Desktop\\Prime Holding Exercies\\Vehicle Rental System\\Entity\\Motorcycle.cs",
+              "RelativeDocumentMoniker": "Entity\\Motorcycle.cs",
+              "ToolTip": "C:\\Users\\ivayl\\Desktop\\Prime Holding Exercies\\Vehicle Rental System\\Entity\\Motorcycle.cs",
+              "RelativeToolTip": "Entity\\Motorcycle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:07:58.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\Desktop\\Prime Holding Exercies\\Vehicle Rental System\\Entity\\Car.cs",
+              "RelativeDocumentMoniker": "Entity\\Car.cs",
+              "ToolTip": "C:\\Users\\ivayl\\Desktop\\Prime Holding Exercies\\Vehicle Rental System\\Entity\\Car.cs",
+              "RelativeToolTip": "Entity\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:07:49.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\Desktop\\Prime Holding Exercies\\Vehicle Rental System\\Entity\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Entity\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\ivayl\\Desktop\\Prime Holding Exercies\\Vehicle Rental System\\Entity\\Vehicle.cs",
+              "RelativeToolTip": "Entity\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:07:43.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ivayl\\Desktop\\Prime Holding Exercies\\Vehicle Rental System\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ivayl\\Desktop\\Prime Holding Exercies\\Vehicle Rental System\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwCUAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T23:54:06.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

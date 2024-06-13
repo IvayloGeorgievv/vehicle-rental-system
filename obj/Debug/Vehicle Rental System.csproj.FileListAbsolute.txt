@@ -1,0 +1,7 @@
+C:\Users\ivayl\Desktop\Prime Holding Exercies\Vehicle Rental System\bin\Debug\Vehicle Rental System.exe.config
+C:\Users\ivayl\Desktop\Prime Holding Exercies\Vehicle Rental System\bin\Debug\Vehicle Rental System.exe
+C:\Users\ivayl\Desktop\Prime Holding Exercies\Vehicle Rental System\bin\Debug\Vehicle Rental System.pdb
+C:\Users\ivayl\Desktop\Prime Holding Exercies\Vehicle Rental System\obj\Debug\Vehicle Rental System.csproj.AssemblyReference.cache
+C:\Users\ivayl\Desktop\Prime Holding Exercies\Vehicle Rental System\obj\Debug\Vehicle Rental System.csproj.CoreCompileInputs.cache
+C:\Users\ivayl\Desktop\Prime Holding Exercies\Vehicle Rental System\obj\Debug\Vehicle Rental System.exe
+C:\Users\ivayl\Desktop\Prime Holding Exercies\Vehicle Rental System\obj\Debug\Vehicle Rental System.pdb
